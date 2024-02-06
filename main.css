@@ -1,0 +1,24 @@
+.students {
+    list-style-position: inside;
+}
+
+.student {
+
+    width: 250px;
+    margin: 2px;
+    padding: 5px;
+
+    /*border: solid 1px red;*/
+
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.6) inset;
+}
+
+/*zöld*/
+.present {
+    background-color: rgba(80, 200, 80, 0.8);
+}
+
+/*piros*/
+.absent{
+    background-color: rgba(255, 80, 80, 0.8);
+}
